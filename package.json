@@ -1,0 +1,8 @@
+{
+  "name": "multiplayer_airhockey",
+  "version": "0.0.1",
+  "description": "Jogo bem legal pra passar em SO",
+  "dependencies": {
+    "socket.io": "^1.4.8"
+  }
+}

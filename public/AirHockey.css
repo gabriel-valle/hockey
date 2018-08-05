@@ -1,0 +1,32 @@
+canvas
+{
+    position: absolute;
+    top: 5px;
+    border: 5px solid black;
+    border-radius: 0px;
+    color: default;
+}
+/*label
+{
+    font-family: 'Exo', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: default;
+    position: absolute;
+    top: 88%;
+    left: 6%;
+}*/
+#lblX
+{
+    position: absolute;
+    top: 620px;
+}
+#lblY
+{
+    position: absolute;
+    top: 640px;
+}
+body
+{
+    background-color: default;
+}
